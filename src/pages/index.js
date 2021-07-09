@@ -21,7 +21,6 @@ const IndexPage = () => (
     /> 
     <p>
       <Link to="https://www.google.com">VIEW HERE</Link> <br />
-      <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
     </p>
   </Layout>
 )
