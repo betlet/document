@@ -20,7 +20,7 @@ const IndexPage = () => (
       style={{ marginBottom: `1.45rem` }}
     /> 
     <p>
-      <Link to="https://www.google.com">VIEW HERE</Link> <br />
+      <Link to="https://www.google.com">Review | Print Document Here</Link> <br />
     </p>
   </Layout>
 )
