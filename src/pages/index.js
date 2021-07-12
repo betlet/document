@@ -13,11 +13,11 @@ const IndexPage = () => (
     <p>Now you can view below.</p>
     <StaticImage
       src="../images/gatsby-astronaut.png"
-      width={300}
+      width={100}
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
-      style={{ marginBottom: `1.45rem` }}
+      style={{ marginBottom: `1rem` }}
     /> 
     <p>
       <Link to="https://edocument.s3.us-west-000.backblazeb2.com/index.html">Review | Print Document Here</Link> <br />
