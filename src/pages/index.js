@@ -17,7 +17,7 @@ const IndexPage = () => (
       quality={95}
       formats={["AUTO", "WEBP", "AVIF"]}
       alt="A Gatsby astronaut"
-      style={{ marginBottom: `0.50rem` }}
+      style={{ marginBottom: `1.00rem` }}
     /> 
     <p>
       <Link to="https://edocument.s3.us-west-000.backblazeb2.com/index.html">Review | Print Document Here</Link> <br />
