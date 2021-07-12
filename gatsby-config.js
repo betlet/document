@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Normandie e-Document`,
+    title: `Slightly Different Foods`,
     description: `edocument.`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
