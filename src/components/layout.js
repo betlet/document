@@ -39,9 +39,9 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built with
+          © {new Date().getFullYear()}, Copyright.
           {` `}
-          <a href="https://edocument.s3.us-west-000.backblazeb2.com/index.html">e.Document</a>
+          <a href="https://edocument.s3.us-west-000.backblazeb2.com/index.html">UNSUBSCRIBE</a>
         </footer>
       </div>
     </>
