@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Slightly Different Foods`,
+    title: `TOTHEROWHAILE&WELCH Certified Public Accountants`,
     description: `edocument.`,
     author: `@gatsbyjs`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
